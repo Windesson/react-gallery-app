@@ -9,3 +9,7 @@ JavaScript and JSX to build out the gallery components in a modular fashion.
 React Router to set up routes for three default topic pages and a search page.
 Axios to fetch data from the Flickr API and use it to display images in your app.
 
+
+Live Demo
+--------------
+https://create-gallery-app.now.sh
