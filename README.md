@@ -12,4 +12,4 @@ Axios to fetch data from the Flickr API and use it to display images in your app
 
 Live Demo
 --------------
-https://create-gallery-app.now.sh
+https://create-gallery-app.now.sh  hostedby https://zeit.co/
